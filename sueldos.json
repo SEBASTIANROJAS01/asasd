@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Luisa Morales",
+        "salud": 354130,
+        "afp": 60708,
+        "sueldo_liquido": 505900
+    },
+    {
+        "nombre": "Javier Torres",
+        "salud": 330050,
+        "afp": 56580,
+        "sueldo_liquido": 471500
+    },
+    {
+        "nombre": "Sofia Ramirez",
+        "salud": 419790,
+        "afp": 71964,
+        "sueldo_liquido": 599700
+    },
+    {
+        "nombre": "Martin Gutierrez",
+        "salud": 466129,
+        "afp": 79908,
+        "sueldo_liquido": 665900
+    },
+    {
+        "nombre": "Valeria Castillo",
+        "salud": 911960,
+        "afp": 156336,
+        "sueldo_liquido": 1302800
+    },
+    {
+        "nombre": "Diego Vargas",
+        "salud": 189000,
+        "afp": 32400,
+        "sueldo_liquido": 270000
+    },
+    {
+        "nombre": "Camila Ruiz",
+        "salud": 370300,
+        "afp": 63480,
+        "sueldo_liquido": 529000
+    },
+    {
+        "nombre": "Alejandro Medina",
+        "salud": 263620,
+        "afp": 45192,
+        "sueldo_liquido": 376600
+    },
+    {
+        "nombre": "Carolina Herrera",
+        "salud": 684880,
+        "afp": 117408,
+        "sueldo_liquido": 978400
+    },
+    {
+        "nombre": "Andres Silva",
+        "salud": 902160,
+        "afp": 154656,
+        "sueldo_liquido": 1288800
+    },
+    {
+        "nombre": "Paula Ortiz",
+        "salud": 963829,
+        "afp": 165228,
+        "sueldo_liquido": 1376900
+    },
+    {
+        "nombre": "Gabriel Ramos",
+        "salud": 228970,
+        "afp": 39252,
+        "sueldo_liquido": 327100
+    }
+]
